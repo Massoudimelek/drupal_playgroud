@@ -16,6 +16,8 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/admin_toolbar": "^3.4",
+        "drupal/adminimal_theme": "^1.7",
         "drupal/backup_migrate": "^5.0",
         "drupal/colorbox": "^2.0",
         "drupal/config_filter": "^2.6",
@@ -32,6 +34,8 @@
         "drupal/entityqueue": "^1.7",
         "drupal/features": "^3.14",
         "drupal/field_group": "^3.4",
+        "drupal/gin": "^3.0@rc",
+        "drupal/gin_toolbar": "^1.0@rc",
         "drupal/jquery_ui": "^1.6",
         "drupal/jquery_ui_datepicker": "^2.0",
         "drupal/jquery_ui_slider": "^2.0",
