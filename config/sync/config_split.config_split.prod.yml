@@ -1,0 +1,19 @@
+uuid: 741ec733-4b0c-4742-9903-ff207dc34188
+langcode: en
+status: true
+dependencies: {  }
+id: prod
+label: prod
+description: 'production settings'
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: staging
+module:
+  backup_migrate: 0
+  devel: 0
+  devel_generate: 0
+theme: {  }
+complete_list: {  }
+partial_list: {  }

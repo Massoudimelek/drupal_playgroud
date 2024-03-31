@@ -1,0 +1,19 @@
+uuid: 628c548e-63f2-4e96-bb19-4f600cc8e791
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: dev
+description: 'developpement settings'
+weight: 0
+stackable: false
+no_patching: false
+storage: folder
+folder: /dev
+module:
+  backup_migrate: 0
+  devel: 0
+  devel_generate: 0
+theme: {  }
+complete_list: {  }
+partial_list: {  }
