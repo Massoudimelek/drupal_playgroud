@@ -11,5 +11,5 @@
 services:
   web:
     environment:
-    - VIRTUAL_HOST=novarnish.dplay.ddev.site
+    - VIRTUAL_HOST=dplay.ddev.site
 
